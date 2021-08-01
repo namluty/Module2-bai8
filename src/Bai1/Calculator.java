@@ -1,3 +1,5 @@
+package Bai1;
+
 public class Calculator {
 
     public static int calculate(int a, int b, char o) {
